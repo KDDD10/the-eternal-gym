@@ -6,6 +6,8 @@
 This website was created for the sole purpose of completing the first Milestone Project for the Code Institute's Web Application Development course. It was built using the knowledge I gained from HTML, CSS and User Centric Design modules. 
 
 The Eternal Energy Gym website was created at the request of the Eternal Energy Gym company. The client had asked for a fully responsive website that can be used to advertise their gym as well as qualities that make them different compared to other gyms. In doing this, they hope that this will increase the amount of people would use their gym and recommend it to others.
+
+The live website can be found [here](file:///C:/Users/kamar/OneDrive/Documents/Code%20Projects/the-eternal-gym/the-eternal-gym/index.html)
 ***
 ## User Experience Design
 
