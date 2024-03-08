@@ -74,3 +74,115 @@ h2{
   overflow: hidden;
   position: relative;
 }
+
+/* Creates the zoom animation for the hero image */
+
+@keyframes hero-zoom {
+  from{
+    transform: scale(1);
+  }
+  to{
+    transform: scale(1.1);
+  }
+}
+
+#cover-text, #cover-text h2{
+  color: #ffffff;
+}
+
+#cover-text {
+  font-size: 130%;
+  font-family: Oswald;
+  text-transform: uppercase;
+  letter-spacing: 4px;
+
+  width: 280px;
+  height: 130px;
+
+  padding-top: 40px;
+  padding-left: 10px;
+
+  background-color: rgba(178, 222, 39, .7);
+  bottom: 30px;
+  right: 150px;
+
+  position: absolute;
+}
+
+/* Club ethos */
+
+#club-ethos{
+  height: 600px;
+}
+
+#left-about{
+  padding-top: 30px;
+  width: 33%;
+  float: left;
+}
+
+#right-about{
+  padding-top: 30px;
+  width: 33%;
+  float: right;
+}
+
+#center-about{
+  width: 33%;
+  margin: 0 auto;
+}
+
+hr{
+  border-top: 1px solid #777777;
+  width: 100%;
+  margin: 5px 0;
+}
+
+.left-about-heading{
+  width: 50%;
+  float: right;
+  line-height: 20px;
+  clear: both;
+  margin-bottom: 50px;
+}
+
+.right-about-heading{
+  width: 50%;
+  float: left;
+  line-height: 20px;
+  clear: both;
+  margin-bottom: 50px;
+}
+
+.right-about-heading h2{
+  text-align: right;
+}
+
+.right-about-heading p{
+  text-align: right;
+}
+
+/* Club ethos center image */
+
+#welcome{
+  margin: 20px 0;
+  text-align: center;
+  font-size: 280%;
+}
+
+#circle-container{
+  width: 400px;
+  height: 400px;
+  padding: 30px;
+  border-style: solid;
+  border-color: #cccccc;
+  border-width: 1px;
+  border-radius: 50%;
+  margin: 0 auto;
+}
+
+#circle-cover-bg{
+  background: url("https://img.freepik.com/free-photo/young-sportsman-having-strength-training-lifting-barbell-gym_637285-2496.jpg") no-repeat center center;
+  height: 100%;
+  border-radius: 50%;
+}
