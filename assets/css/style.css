@@ -55,3 +55,22 @@ h2{
 .active{
   border-bottom: 1px solid #777777;
 }
+
+/* Hero Image */
+
+#hero-image{
+  height:600px;
+  width: 100%;
+  background: url("https://www.planetfitness.com/sites/default/files/feature-image/SEO%20Blog%20Article_Header%20Image_9%20Motivational%20Workout%20Quotes%20to%20Get%20You%20Into%20the%20Gym.jpg") no-repeat center center;
+
+  animation-name: hero-zoom;
+  animation-duration: 5s;
+  animation-fill-mode: forwards
+}
+
+#hero-outer{
+  height:600px;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+}
