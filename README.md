@@ -131,5 +131,6 @@ I  came across multiple challenges during the final stages of the project. All m
 There are a few things I wanted to make clear so that it's easier to understand why some things are the way they are in this readme file as well as the whole Project. 
 * The link to my website is on a differentb platform. This is because I didn't use Github or any suitable developing platform. I used 'Replit'. By the time I realised that I had to put all my work on another platform, I struggled to make it work and it was too late. So I decided to just to keep things how they were and hope for the best.
 * I didn't keep track of every website I used to help me along the way. It's purely my fault as I should've been more careful when reading the criteria.
+* I didn't noticed certain things such as committing my work while doing it to show the progress of the work but when I did notice I tried my best to fix the situation and got some of it done.
 
 As I explained before, I came across multiple challenges. Challenges that held me back to completing the project properly. It's my own fault and I've learnt from it. I gave it my a good try and I truly believed I've come a long way form the start and end of this first project.
